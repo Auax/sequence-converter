@@ -4,7 +4,8 @@ can transform a video to a sequence of images.
 
 ---
 
-###To run it
+##To run it
+
 To run it you must have installed Python. 
 Open the terminal and run the main.py file, then, the file 
 will ask you for two options, so you will choose the one you need.
