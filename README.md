@@ -27,7 +27,7 @@ a new one will be created)
 
 ---
 
-**Graphical Example*
+**Graphical Example**
 
 **Base Folder before transforming:**
 ```
