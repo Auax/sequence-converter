@@ -4,7 +4,8 @@ can transform a video to a sequence of images.
 
 ---
 
-###To run it
+**To run it**
+
 To run it you must have installed Python. 
 Open the terminal and run the main.py file, then, the file 
 will ask you for two options, so you will choose the one you need.
@@ -14,7 +15,8 @@ E.g:
 
 ---
 
-###Important
+**Important**
+
 In the case of transforming a sequence of images, the video will be outputted
 in the directory path that you opened the Terminal 
 
@@ -25,7 +27,8 @@ a new one will be created)
 
 ---
 
-###Graphic example:
+**Graphical Example**
+
 **Base Folder before transforming:**
 ```
 sequence-converter
