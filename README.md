@@ -1,4 +1,4 @@
-# Sequence-convertor
+# Sequence-converter
 With this project you can transform a sequence of images to a video, also, you 
 can transform a video to a sequence of images. 
 
@@ -10,7 +10,7 @@ Open the terminal and run the main.py file, then, the file
 will ask you for two options, so you will choose the one you need.
 
 E.g: 
-`C:\sequence-convertor> python main.py` (_Windows_)
+`C:\sequence-converter> python main.py` (_Windows_)
 
 ---
 
@@ -28,7 +28,7 @@ a new one will be created)
 ###Graphic example:
 **Base Folder before transforming:**
 ```
-sequence-convertor
+sequence-converter
 ├─ .main.py
 ├─ .README.md
 ├─ .built_in
@@ -38,7 +38,7 @@ _Transforming a video to a image sequence..._
 
 **Base Folder after transforming:**
 ```
-sequence-convertor
+sequence-converter
 ├─ .main.py
 ├─ .README.md
 ├─ .built_in
